@@ -2,7 +2,7 @@
 
 Many local businesses struggle to get consistent leads because they rely solely on a basic Google Maps listing. In today's digital-first world, if your business doesn't have a structured, professional website, you are losing customers to competitors who do.
 
-This repository breaks down the core concepts of why establishing a proper digital presence is non-negotiable for modern businesses—whether you run a clinic, salon, coaching center, or retail shop.
+This repository breaks down the core concepts of why establishing a proper digital presence is non-negotiable for modern businesses - whether you run a clinic, salon, coaching center, or retail shop.
 
 ## The Reality of Local Search
 
@@ -21,7 +21,7 @@ Having a Maps listing and a phone number is a good start, but it doesn't give cu
 
 ## Your Website is Your 24/7 Digital Office
 
-Think of your website as a reception desk that never sleeps. Even when your physical location is closed, your website is actively working for you—providing information, building trust, and capturing leads or bookings directly from Google.
+Think of your website as a reception desk that never sleeps. Even when your physical location is closed, your website is actively working for you - providing information, building trust, and capturing leads or bookings directly from Google.
 
 ## The Myth of "Websites are Only for Big Companies"
 
